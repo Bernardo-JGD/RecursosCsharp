@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Ejercicio3\obj\Debug\Ejercicio3.pdb

@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ColeccionDiccionario\bin\Debug\ColeccionDiccionario.exe.config
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ColeccionDiccionario\bin\Debug\ColeccionDiccionario.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ColeccionDiccionario\bin\Debug\ColeccionDiccionario.pdb
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ColeccionDiccionario\obj\Debug\ColeccionDiccionario.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ColeccionDiccionario\obj\Debug\ColeccionDiccionario.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ColeccionDiccionario\obj\Debug\ColeccionDiccionario.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ColeccionDiccionario\obj\Debug\ColeccionDiccionario.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ColeccionDiccionario\obj\Debug\ColeccionDiccionario.pdb

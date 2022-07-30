@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b0c622c-01e4-45ab-94ac-6b0c8ed36b8c": {
+      "ProjectGuid": "7b0c622c-01e4-45ab-94ac-6b0c8ed36b8c",
+      "DisplayName": "CursoCSharp",
+      "ColorIndex": 0
+    },
+    "7b51a193-ea79-4cf7-b6d2-99ac6de3b35f": {
+      "ProjectGuid": "7b51a193-ea79-4cf7-b6d2-99ac6de3b35f",
+      "DisplayName": "Ejercicio1",
+      "ColorIndex": 1
+    },
+    "1b801ddf-1a8f-4042-94ba-addffe662adc": {
+      "ProjectGuid": "1b801ddf-1a8f-4042-94ba-addffe662adc",
+      "DisplayName": "Ejercicio2",
+      "ColorIndex": 2
+    },
+    "15cb73e6-2c7b-4f6b-9754-eba0f1280a54": {
+      "ProjectGuid": "15cb73e6-2c7b-4f6b-9754-eba0f1280a54",
+      "DisplayName": "Ejercicio3",
+      "ColorIndex": 3
+    },
+    "c5ed893c-3b8f-445f-8c2b-c9e9f564f8ab": {
+      "ProjectGuid": "c5ed893c-3b8f-445f-8c2b-c9e9f564f8ab",
+      "DisplayName": "HerenciaSobreescritura_HaloEjemplo",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "b6c3d34e-9f23-4ccd-a8da-2f6a7b5e510b": {
+      "ProjectGuid": "b6c3d34e-9f23-4ccd-a8da-2f6a7b5e510b",
+      "DisplayName": "Abstraccion",
+      "ColorIndex": 5
+    },
+    "c23828d2-c19f-4cc7-aadc-48b34c9d7dc1": {
+      "ProjectGuid": "c23828d2-c19f-4cc7-aadc-48b34c9d7dc1",
+      "DisplayName": "Polimorfismo",
+      "ColorIndex": 6
+    },
+    "09d55d18-d18a-4cc2-8bcd-c58c12160f6d": {
+      "ProjectGuid": "09d55d18-d18a-4cc2-8bcd-c58c12160f6d",
+      "DisplayName": "EjercicioHerencia",
+      "ColorIndex": 7
+    },
+    "292528ac-b6db-4257-b965-6be2d962aca5": {
+      "ProjectGuid": "292528ac-b6db-4257-b965-6be2d962aca5",
+      "DisplayName": "Listas",
+      "ColorIndex": 8
+    },
+    "c1eb3c8b-37a1-4056-b6a3-13c2cc74c69f": {
+      "ProjectGuid": "c1eb3c8b-37a1-4056-b6a3-13c2cc74c69f",
+      "DisplayName": "ClaseArrayList",
+      "ColorIndex": 9
+    },
+    "bf9e3eb9-28ba-4eeb-8223-d115a54bdba3": {
+      "ProjectGuid": "bf9e3eb9-28ba-4eeb-8223-d115a54bdba3",
+      "DisplayName": "PilaStack",
+      "ColorIndex": 10
+    },
+    "897fef32-d920-41e2-be0d-d9ec7ac27366": {
+      "ProjectGuid": "897fef32-d920-41e2-be0d-d9ec7ac27366",
+      "DisplayName": "ColeccionDiccionario",
+      "ColorIndex": 11
+    },
+    "83413870-f2d5-467d-bfa6-eda97aa0c8f7": {
+      "ProjectGuid": "83413870-f2d5-467d-bfa6-eda97aa0c8f7",
+      "DisplayName": "ManejoDeExcepciones",
+      "ColorIndex": 12
+    }
+  },
+  "NextColorIndex": 13
+}

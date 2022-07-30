@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\EjercicioHerencia\bin\Debug\EjercicioHerencia.exe.config
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\EjercicioHerencia\bin\Debug\EjercicioHerencia.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\EjercicioHerencia\bin\Debug\EjercicioHerencia.pdb
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\EjercicioHerencia\obj\Debug\EjercicioHerencia.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\EjercicioHerencia\obj\Debug\EjercicioHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\EjercicioHerencia\obj\Debug\EjercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\EjercicioHerencia\obj\Debug\EjercicioHerencia.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\EjercicioHerencia\obj\Debug\EjercicioHerencia.pdb

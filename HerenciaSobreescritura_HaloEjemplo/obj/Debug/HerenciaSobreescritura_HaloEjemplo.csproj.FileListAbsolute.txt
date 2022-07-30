@@ -1,0 +1,3 @@
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\HerenciaSobreescritura_HaloEjemplo\obj\Debug\HerenciaSobreescritura_HaloEjemplo.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\HerenciaSobreescritura_HaloEjemplo\obj\Debug\HerenciaSobreescritura_HaloEjemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\HerenciaSobreescritura_HaloEjemplo\obj\Debug\HerenciaSobreescritura_HaloEjemplo.csproj.CoreCompileInputs.cache

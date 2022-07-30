@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\PilaStack\bin\Debug\PilaStack.exe.config
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\PilaStack\bin\Debug\PilaStack.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\PilaStack\bin\Debug\PilaStack.pdb
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\PilaStack\obj\Debug\PilaStack.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\PilaStack\obj\Debug\PilaStack.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\PilaStack\obj\Debug\PilaStack.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\PilaStack\obj\Debug\PilaStack.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\PilaStack\obj\Debug\PilaStack.pdb

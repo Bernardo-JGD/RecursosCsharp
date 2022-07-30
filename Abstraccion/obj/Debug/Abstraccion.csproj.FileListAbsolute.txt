@@ -1,0 +1,8 @@
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Abstraccion\bin\Debug\Abstraccion.exe.config
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Abstraccion\bin\Debug\Abstraccion.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Abstraccion\obj\Debug\Abstraccion.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Abstraccion\obj\Debug\Abstraccion.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Abstraccion\obj\Debug\Abstraccion.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\Abstraccion\obj\Debug\Abstraccion.pdb

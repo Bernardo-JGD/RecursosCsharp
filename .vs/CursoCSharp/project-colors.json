@@ -70,7 +70,12 @@
       "ProjectGuid": "83413870-f2d5-467d-bfa6-eda97aa0c8f7",
       "DisplayName": "ManejoDeExcepciones",
       "ColorIndex": 12
+    },
+    "3f387ec7-a626-41b3-9e6d-704568c6c325": {
+      "ProjectGuid": "3f387ec7-a626-41b3-9e6d-704568c6c325",
+      "DisplayName": "ExpresionesRegulares",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 13
+  "NextColorIndex": 14
 }

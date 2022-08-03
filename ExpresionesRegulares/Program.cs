@@ -18,6 +18,9 @@ namespace ExpresionesRegulares
         {
             //encontrarJ();
             practicaNombres();
+            practicaNumeroTelefono();
+            practicaNumeroEntero();
+            practicaDireccion();
             Console.ReadLine();
         }
 
@@ -77,10 +80,68 @@ namespace ExpresionesRegulares
         
         static void practicaNombres()
         {
-            string nombre = "Jose Bernardo Guzmán Diaz";
-            string nombre2 = "";
-            Console.WriteLine(nombre2.Length);
+            string nombre = "Ana Ma. Elizabeth Diaz Baltazar";
+            //Por ahora si permite nombres con puntos pero que no comiencen con puntos
+            //Ana Ma. Elizabeth Diaz Baltazar
+            Regex expresion = new Regex(@"(^[a-zA-Z]+)([a-zA-Z\.]+)");
+            if (expresion.IsMatch(nombre))
+            {
+                Console.WriteLine("Si es un nombre");
+            }
+            else
+            {
+                Console.WriteLine("No es un nombre");
+            }
+            
         }
-    
+
+        static void practicaNumeroTelefono()
+        {
+            string nombre = "831-898-2339";
+            //Solo permite esta estructura: 831-898-2339
+            Regex expresion = new Regex(@"(^[0-9]{3})-([0-9]{3})-([0-9]{4}$)");
+            if (expresion.IsMatch(nombre))
+            {
+                Console.WriteLine("Si es un telefono");
+            }
+            else
+            {
+                Console.WriteLine("No es un telefono");
+            }
+
+        }
+
+        static void practicaNumeroEntero()
+        {
+            string nombre = "56";
+            //Solo permite numeros de 2 a 4 cifras
+            Regex expresion = new Regex(@"[0-9]{2}|[0-9]{3}|[0-9]{4}");
+            if (expresion.IsMatch(nombre))
+            {
+                Console.WriteLine("Si es un numero");
+            }
+            else
+            {
+                Console.WriteLine("No es un numero");
+            }
+
+        }
+
+        static void practicaDireccion()
+        {
+            string nombre = "Emiliano Zapata # _304";
+            //Hasta ahora permite esto: Emiliano Zapata # _304
+            Regex expresion = new Regex(@"[a-zA-Z0-9]+");
+            if (expresion.IsMatch(nombre))
+            {
+                Console.WriteLine("Si es un direccion");
+            }
+            else
+            {
+                Console.WriteLine("No es un direccion");
+            }
+
+        }
+
     }
 }

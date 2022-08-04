@@ -80,13 +80,18 @@ namespace ExpresionesRegulares
         
         static void practicaNombres()
         {
-            string nombre = "Ana Ma. Elizabeth Diaz Baltazar";
+            string nombre = "Ana Ma. Elizabeth";
             //Por ahora si permite nombres con puntos pero que no comiencen con puntos
             //Ana Ma. Elizabeth Diaz Baltazar
-            Regex expresion = new Regex(@"(^[a-zA-Z]+)([a-zA-Z\.]+)");
+            Regex expresion = new Regex(@"(^[a-zA-Z]+)([a-zA-Z]+)([^0-9]+)$");//creo que ya jaló así
             if (expresion.IsMatch(nombre))
             {
+                MatchCollection matches = Regex.Matches(nombre, @"(^[a-zA-Z]+)([a-zA-Z]+)([^0-9]+)$");
                 Console.WriteLine("Si es un nombre");
+                foreach (Match m in matches)
+                {
+                    Console.WriteLine(m.Value);
+                }
             }
             else
             {

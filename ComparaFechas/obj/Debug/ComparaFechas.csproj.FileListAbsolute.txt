@@ -1,0 +1,11 @@
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\bin\Debug\ComparaFechas.exe.config
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\bin\Debug\ComparaFechas.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\bin\Debug\ComparaFechas.pdb
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\obj\Debug\ComparaFechas.csproj.AssemblyReference.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\obj\Debug\ComparaFechas.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\obj\Debug\ComparaFechas.Form1.resources
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\obj\Debug\ComparaFechas.Properties.Resources.resources
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\obj\Debug\ComparaFechas.csproj.GenerateResource.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\obj\Debug\ComparaFechas.csproj.CoreCompileInputs.cache
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\obj\Debug\ComparaFechas.exe
+C:\Users\PRIDE RABBIT\source\repos\CursoCSharp\ComparaFechas\obj\Debug\ComparaFechas.pdb

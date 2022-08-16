@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoDeExcepciones", "Mane
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpresionesRegulares", "ExpresionesRegulares\ExpresionesRegulares.csproj", "{3F387EC7-A626-41B3-9E6D-704568C6C325}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparaFechas", "ComparaFechas\ComparaFechas.csproj", "{2FAFC5FD-EEA0-4A94-96BF-31EA00BAA7AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -89,6 +91,10 @@ Global
 		{3F387EC7-A626-41B3-9E6D-704568C6C325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F387EC7-A626-41B3-9E6D-704568C6C325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F387EC7-A626-41B3-9E6D-704568C6C325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FAFC5FD-EEA0-4A94-96BF-31EA00BAA7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FAFC5FD-EEA0-4A94-96BF-31EA00BAA7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FAFC5FD-EEA0-4A94-96BF-31EA00BAA7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FAFC5FD-EEA0-4A94-96BF-31EA00BAA7AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -107,6 +113,7 @@ Global
 		{897FEF32-D920-41E2-BE0D-D9EC7AC27366} = {60961927-CBDD-4219-925D-D969FD574A1B}
 		{83413870-F2D5-467D-BFA6-EDA97AA0C8F7} = {60961927-CBDD-4219-925D-D969FD574A1B}
 		{3F387EC7-A626-41B3-9E6D-704568C6C325} = {60961927-CBDD-4219-925D-D969FD574A1B}
+		{2FAFC5FD-EEA0-4A94-96BF-31EA00BAA7AD} = {60961927-CBDD-4219-925D-D969FD574A1B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8804993B-B6EA-4B54-B833-9BC5990E0FA4}
